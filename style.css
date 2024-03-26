@@ -12,6 +12,7 @@ body {
   place-items: center;
   background: #ecf0f3;
 }
+/* Icons class used for styles will be applied to anchor tags (<a>) that also have the class icons applied to them */
 .icons a {
   background: #ecf0f3;
   position: relative;
